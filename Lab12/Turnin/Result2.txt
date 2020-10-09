@@ -1,0 +1,6 @@
+Result2.txt is matrix2.txt and matrix3.txt multiplied.
+
+
+   10    15    11 
+   25    36    29 
+   40    57    47 

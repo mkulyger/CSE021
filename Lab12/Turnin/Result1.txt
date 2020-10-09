@@ -1,0 +1,5 @@
+Result1.txt is matrix1.txt and matrix2.txt multiplied
+
+    0     0     0 
+    0     0     0 
+    0     0     0 

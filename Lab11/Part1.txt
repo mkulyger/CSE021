@@ -1,0 +1,12 @@
+Task 1
+Line 19: [a]
+Line 20: [a, b]
+Line 21: [a, b, c]
+Line 22: [a, c]
+Line 23: [a, c, d]
+Line 24: [c, d]
+Line 25: [c, d, e]
+Line 26: [c, d, e]
+Line 27: [c, d, e, d]
+Line 28: [d, e, d]
+Line 29: [e, d]
